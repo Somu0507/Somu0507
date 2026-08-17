@@ -10,10 +10,10 @@ I learn by building projects, understanding the problems behind the code, and do
 
 ## Currently learning
 
-* **R** — programming fundamentals, data manipulation, visualization, and statistics
-* **Data analysis** — cleaning, exploration, interpretation, and communication
-* **Machine learning** — modelling, evaluation, and feature engineering
-* **Git & GitHub** — version control and collaborative development
+* **R** - programming fundamentals, data manipulation, visualization, and statistics
+* **Data analysis** - cleaning, exploration, interpretation, and communication
+* **Machine learning** - modelling, evaluation, and feature engineering
+* **Git & GitHub** - version control and collaborative development
 
 ## Tech I'm working with
 
