@@ -33,7 +33,7 @@ Git · GitHub · Jupyter · Google Colab
 
 ## Featured work
 
-### Atmosense — Air Quality Prediction System
+### Atmosense - Air Quality Prediction System
 
 A machine-learning project focused on predicting Air Quality Index from pollutant and weather data.
 
